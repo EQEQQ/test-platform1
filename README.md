@@ -6,4 +6,5 @@ void main()
   int i;
   cout<<endl;
   cout<<"协作one";
+  cout<<"my name is 王旖豪";
 }
