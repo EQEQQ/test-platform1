@@ -3,4 +3,7 @@
 void main()
 { 
   cout<<"parter";
+  int i;
+  cout<<endl;
+  cout<<"协作one";
 }
