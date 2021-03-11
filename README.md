@@ -7,4 +7,6 @@ void main()
   cout<<endl;
   cout<<"协作one";
   cout<<"my name is 王旖豪";
+  cout<<endl;
+  cout<<"and my name is 李悦华";
 }
